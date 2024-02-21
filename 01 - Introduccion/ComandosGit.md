@@ -52,3 +52,4 @@ Para salir del edit ctrl + o y ctrl + x y si es VIM esc y :wq
 2. Tomar la foto del codigo (Crear una nueva versión)
 
 - git commit -m "Nombre del commit"
+
