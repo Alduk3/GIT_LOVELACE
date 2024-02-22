@@ -2,7 +2,7 @@
 
 ## Comando para ve la version de git
 
-```terminal
+```git
 
 git -v
 git --version
