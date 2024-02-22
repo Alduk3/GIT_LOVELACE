@@ -21,3 +21,13 @@
 
 - git branch -M { nombre_rama }
 
+# Comando para eliminar un archivo de git
+
+( Ingresar primero a la ubicacion del archivo )
+
+- git rm --cached { nombre archivo }
+
+# Comando para crear shortcuts
+
+- git config --global alias.{ nombre del atajo} "{ lo que va a hacer }"
+
